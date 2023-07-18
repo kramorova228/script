@@ -4,3 +4,6 @@
  integrity sha512-IchNf6dN4tHoMFIn/7OE8LWZ19Y6q/67Bmf6vnGREv8RSbBVb9LPJxEcnwrcwX6ixSvaiGoomAUvu4YSxXrVgw==
   dependencies:
    "@jridgewell/trace-mapping" "0.3.9"
+    "@jridgewell/trace-mapping" "0.3.9"
+
+"@ethereumjs/block@^3.5.0", "@ethereumjs/block@^3.6.2", "@ethereumjs/block@^3.6.3":
