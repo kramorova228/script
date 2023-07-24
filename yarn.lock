@@ -19,3 +19,5 @@
   integrity sha512-CegDeryc2DVKnDkg5COQrE0bJfw/p0v3GBk2W5/Dj5dOVfEmb50Ux0GLnSPypooLnfqjwFaorGuT9FokWB3GRg==
   dependencies:
  "@ethereumjs/common" "^2.6.5"
+ "@ethereumjs/tx" "^3.5.2"
+    ethereumjs-util "^7.1.5"
