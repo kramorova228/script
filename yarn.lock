@@ -29,3 +29,4 @@
   integrity sha512-bi0wuNJ1gw4ByNCV56H0Z4Q7D+SxUbwyG12Wxzbvqc89PXLRNR20LBcSUZRKpN0+YCPo6m0XZL/JLio3B52LTw==
  dependencies:
     "@ethereumjs/block" "^3.6.2"
+ "@ethereumjs/common" "^2.6.4"
