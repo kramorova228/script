@@ -32,3 +32,4 @@
  "@ethereumjs/common" "^2.6.4"
   "@ethereumjs/ethash" "^1.1.0"
     debug "^4.3.3"
+ ethereumjs-util "^7.1.5"
