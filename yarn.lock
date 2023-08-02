@@ -33,3 +33,4 @@
   "@ethereumjs/ethash" "^1.1.0"
     debug "^4.3.3"
  ethereumjs-util "^7.1.5"
+level-mem "^5.0.1"
