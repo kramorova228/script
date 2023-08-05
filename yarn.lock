@@ -38,3 +38,5 @@ level-mem "^5.0.1"
     semaphore-async-await "^1.5.1"
 
 "@ethereumjs/common@^2.5.0", "@ethereumjs/common@^2.6.4", "@ethereumjs/common@^2.6.5":
+ version "2.6.5"
+  resolved "https://registry.yarnpkg.com/@ethereumjs/common/-/common-2.6.5.tgz#0a75a22a046272579d91919cb12d84f2756e8d30"
