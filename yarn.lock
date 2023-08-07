@@ -27,17 +27,5 @@
   version "5.5.3"
   resolved "https://registry.yarnpkg.com/@ethereumjs/blockchain/-/blockchain-5.5.3.tgz#aa49a6a04789da6b66b5bcbb0d0b98efc369f640"
   integrity sha512-bi0wuNJ1gw4ByNCV56H0Z4Q7D+SxUbwyG12Wxzbvqc89PXLRNR20LBcSUZRKpN0+YCPo6m0XZL/JLio3B52LTw==
- dependencies:
-    "@ethereumjs/block" "^3.6.2"
- "@ethereumjs/common" "^2.6.4"
-  "@ethereumjs/ethash" "^1.1.0"
-    debug "^4.3.3"
- ethereumjs-util "^7.1.5"
-level-mem "^5.0.1"
- lru-cache "^5.1.1"
-    semaphore-async-await "^1.5.1"
-
-"@ethereumjs/common@^2.5.0", "@ethereumjs/common@^2.6.4", "@ethereumjs/common@^2.6.5":
- version "2.6.5"
-  resolved "https://registry.yarnpkg.com/@ethereumjs/common/-/common-2.6.5.tgz#0a75a22a046272579d91919cb12d84f2756e8d30"
- integrity sha512-lRyVQOeCDaIVtgfbowla32pzeDv2Obr8oR8Put5RdUBNRGr1VGPGQNGP6elWIpgK3YdpzqTOh4GyUGOureVeeA==
+dependencies:
+    crc-32 "^1.2.0"
