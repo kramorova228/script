@@ -29,3 +29,6 @@
   integrity sha512-bi0wuNJ1gw4ByNCV56H0Z4Q7D+SxUbwyG12Wxzbvqc89PXLRNR20LBcSUZRKpN0+YCPo6m0XZL/JLio3B52LTw==
 dependencies:
     crc-32 "^1.2.0"
+ ethereumjs-util "^7.1.5"
+
+"@ethereumjs/ethash@^1.1.0":
