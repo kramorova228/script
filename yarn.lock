@@ -37,3 +37,4 @@ dependencies:
  integrity sha512-/U7UOKW6BzpA+Vt+kISAoeDie1vAvY4Zy2KF5JJb+So7+1yKmJeJEHOGSnQIj330e9Zyl3L5Nae6VZyh2TJnAA==
   dependencies:
  "@ethereumjs/block" "^3.5.0"
+  "@types/levelup" "^4.3.0"
