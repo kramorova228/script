@@ -52,3 +52,6 @@ integrity sha512-gQDNJWKrSDGu2w7w0PzVXVBNMzb7wwdDOmOqczmhNjqFxFuIbhVJDwiGEnxFNC2
  "@ethereumjs/ethash" "^1.1.0"
  debug "^4.3.3"
     ethereumjs-util "^7.1.5"
+
+"@ethereumjs/ethash@^1.1.0":
+  version "1.1.0"
