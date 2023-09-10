@@ -61,3 +61,4 @@ integrity sha512-/U7UOKW6BzpA+Vt+kISAoeDie1vAvY4Zy2KF5JJb+So7+1yKmJeJEHOGSnQIj33
   "@ethereumjs/block" "^3.5.0"
  "@types/levelup" "^4.3.0"
  buffer-xor "^2.0.1"
+  ethereumjs-util "^7.1.1"
