@@ -75,3 +75,7 @@ integrity sha512-/U7UOKW6BzpA+Vt+kISAoeDie1vAvY4Zy2KF5JJb+So7+1yKmJeJEHOGSnQIj33
   "@ethersproject/hash" "^5.7.0"
  "@ethersproject/keccak256" "^5.7.0"
     "@ethersproject/logger" "^5.7.0"
+  "@ethersproject/properties" "^5.7.0"
+    "@ethersproject/strings" "^5.7.0"
+
+"@ethersproject/abstract-provider@5.7.0", "@ethersproject/abstract-provider@^5.7.0":
