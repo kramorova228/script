@@ -99,3 +99,6 @@ integrity sha512-/U7UOKW6BzpA+Vt+kISAoeDie1vAvY4Zy2KF5JJb+So7+1yKmJeJEHOGSnQIj33
   dependencies:
     "@ethersproject/abstract-provider" "^5.7.0"
  "@ethersproject/bignumber" "^5.7.0"
+ "@ethersproject/bytes" "^5.7.0"
+    "@ethersproject/logger" "^5.7.0"
+    "@ethersproject/properties" "^5.7.0"
