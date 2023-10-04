@@ -111,3 +111,4 @@ integrity sha512-9wYhYt7aghVGo758POM5nqcOMaE168Q6aRLJZwUmiqSrAungkG74gSSeKEIR7uk
     "@ethersproject/bignumber" "^5.7.0"
   "@ethersproject/bytes" "^5.7.0"
     "@ethersproject/keccak256" "^5.7.0"
+"@ethersproject/logger" "^5.7.0"
