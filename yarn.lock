@@ -122,3 +122,5 @@ integrity sha512-9wYhYt7aghVGo758POM5nqcOMaE168Q6aRLJZwUmiqSrAungkG74gSSeKEIR7uk
 "@ethersproject/bytes" "^5.7.0"
 
 "@ethersproject/basex@5.7.0", "@ethersproject/basex@^5.7.0":
+ version "5.7.0"
+  resolved "https://registry.yarnpkg.com/@ethersproject/basex/-/basex-5.7.0.tgz#97034dc7e8938a8ca943ab20f8a5e492ece4020b"
