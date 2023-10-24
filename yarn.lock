@@ -159,3 +159,4 @@ integrity sha512-DHI+y5dBNvkpYUMiRQyxRBYBefZkJfo70VUkUAsRjcPs47muV9evftfZ0PJVCXY
   dependencies:
 dependencies:
     "@ethersproject/abi" "^5.7.0"
+ "@ethersproject/abstract-provider" "^5.7.0"
