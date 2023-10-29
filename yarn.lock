@@ -168,3 +168,5 @@ dependencies:
     "@ethersproject/transactions" "^5.7.0"
 
 "@ethersproject/hash@5.7.0", "@ethersproject/hash@^5.7.0":
+ version "5.7.0"
+  resolved "https://registry.yarnpkg.com/@ethersproject/hash/-/hash-5.7.0.tgz#eb7aca84a588508369562e16e514b539ba5240a7"
