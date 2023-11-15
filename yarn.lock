@@ -209,3 +209,5 @@ integrity sha512-qX5WrQfnah1EFnO5zJv1v46a8HW0+E5xuBBDTwMFZLuVTx0tbU2kkx15Nqdjxec
   "@ethersproject/abstract-signer" "^5.7.0"
     "@ethersproject/address" "^5.7.0"
  "@ethersproject/bignumber" "^5.7.0"
+ "@ethersproject/bytes" "^5.7.0"
+    "@ethersproject/constants" "^5.7.0"
