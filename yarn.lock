@@ -213,3 +213,4 @@ integrity sha512-qX5WrQfnah1EFnO5zJv1v46a8HW0+E5xuBBDTwMFZLuVTx0tbU2kkx15Nqdjxec
     "@ethersproject/constants" "^5.7.0"
   "@ethersproject/hash" "^5.7.0"
     "@ethersproject/keccak256" "^5.7.0"
+ "@ethersproject/logger" "^5.7.0"
