@@ -219,3 +219,5 @@ integrity sha512-qX5WrQfnah1EFnO5zJv1v46a8HW0+E5xuBBDTwMFZLuVTx0tbU2kkx15Nqdjxec
     "@ethersproject/sha2" "^5.7.0"
     "@ethersproject/signing-key" "^5.7.0"
    "@ethersproject/strings" "^5.7.0"
+
+"@ethersproject/abstract-provider@5.7.0", "@ethersproject/abstract-provider@^5.7.0":
